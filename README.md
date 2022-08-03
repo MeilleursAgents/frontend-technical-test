@@ -1,12 +1,12 @@
-# Meilleurs Agents Frontend Technical Test
+# Aviv Frontend Technical Test
 
-[![MeilleursAgents logo](images/logo-ma.png)](https://www.meilleursagents.com)
+[![Aviv logo](images/logo-aviv.png)](https://www.aviv-group.com/)
 
 ## Presentation
 
-This repository contains instructions for the MeilleursAgents Frontend Technical Test.
+This repository contains instructions for the Aviv - Owner - Frontend Technical Test.
 
-Its objective is to give us an overview of your practical technical knowledge through the realisation of an application that matches what we do as Frontend Engineer at Meilleurs Agents.
+Its objective is to give us an overview of your practical technical knowledge through the realisation of an application that matches what we do as Frontend Engineer at Aviv.
 
 ## Objective
 
@@ -25,7 +25,7 @@ When you are done, there's a few questions to answer in the [SOLUTION.md](SOLUTI
 
 This repository being a template, it's possible to create a new project using this one as a [template](https://github.com/MeilleursAgents/frontend-technical-test/generate). Check the big green `Template` button. Thanks to let the generated project as a private one.
 
-[![MeilleursAgents logo](images/dépôt-privé.png)](https://github.com/MeilleursAgents/FrontendTechTest/generate)
+[![repository](images/dépôt-privé.png)](https://github.com/MeilleursAgents/FrontendTechTest/generate)
 
 Alternatively, you can always clone this repository.
 
